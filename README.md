@@ -1,4 +1,4 @@
-# 🏈 FootyHeroes - Football Match Organization Platform
+# ⚽ FootyHeroes - Football Match Organization Platform
 
 Welcome to FootyHeroes! A comprehensive platform for organizing football matches, connecting players, and managing team statistics.
 
